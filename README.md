@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working with **Java GUI**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Java**
 
