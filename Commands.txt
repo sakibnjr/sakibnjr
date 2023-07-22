@@ -1,0 +1,33 @@
+Secret Commands
+
+1. (hide files is photo)
+copy /b photoname.filetype+zippedfolder.zip newfilename.type
+
+2.(hide folder)
+attrib +h +s +r foldername.type
+unhide
+attrib -h -s -r foldername.type
+
+3. show all connected wifi network
+netsh wlan show profile
+
+4. show particular wifi network password
+netsh wlan show profile "wifi name" key =clear
+
+5.change color
+color /?
+
+color 02
+0-background
+2-text
+
+6.change prompt style
+prompt {your text}$G
+
+7.change cmd title
+title yourtext
+
+8.get public ip address
+curl checkip.amazonaws.com
+
+9.
