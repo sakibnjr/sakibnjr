@@ -1,19 +1,5 @@
 <h1 align="center">Hi, I'm Sakib 👋</h1>
 
-<p align="center">
-  <em>When the code doesn't work, but you still gotta debug... 😤</em>
-</p>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/iIQ9zcpyLmsAAAAC/angry-eyes-sonic-3.gif" alt="Angry Sonic" />
-</p>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sakibnjr&label=Profile%20views&color=04cdb5&style=flat-square" alt="sakibnjr" /> 
-</p>
-
----
-
 ### Noob Developer Here! 🧑‍💻
 
 I do code a little like this...  
