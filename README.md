@@ -6,6 +6,10 @@ I do code a little like this...
 <code>console.log('Hello World!')</code> 😅  
 But hey, I'm learning and having fun along the way! 🚀
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sakibnjr&label=Profile%20views&color=04cdb5&style=flat-square" alt="sakibnjr" /> 
+</p>
+
 <p align="center">
   <h3>Core Tech</h3>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
